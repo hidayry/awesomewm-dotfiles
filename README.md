@@ -44,6 +44,10 @@
 
 1.- <b>First clone the repository</b>
 
+```sh
+https://github.com/hidayry/awesomewm-dotfiles.git
+```
+
 2.- <b>Copy config :</b>
 
 - **⚠️ WARNING: Configuration files may be overrided,please backup your config**
