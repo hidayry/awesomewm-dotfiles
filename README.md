@@ -97,4 +97,4 @@ fc-cache -fv
 
 ## Credits
 
-[adi1090x](https://github.com/adi1090x/rofi), [rxyhn](https://github.com/rxyhn/yoru), [saimoomedits](https://github.com/saimoomedits/dotfiles), [AlphaTechnolog](https://github.com/AlphaTechnolog)
+[adi1090x](https://github.com/adi1090x/rofi), [rxyhn](https://github.com/rxyhn/yoru), [saimoomedits](https://github.com/saimoomedits/dotfiles), [AlphaTechnolog](https://github.com/AlphaTechnolog),[Chick2D](https://github.com/Chick2D/neofetch-themes)
