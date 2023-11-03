@@ -8,7 +8,7 @@
 
 <div align="center">
     <img src ="https://img.shields.io/badge/Awesome-WM-blue?style=for-the-badge&logo=lua&logoColor=red&color=red"/>
-    <img src ="https://img.shields.io/badge/Debian-12-green?style=for-the-badge&logo=Debian&logoColor=red&color=blue"/>
+    <img src ="https://img.shields.io/badge/Archlinux-green?style=for-the-badge&logo=Arch Linux&logoColor=red&color=blue"/>
 </div>
 
 </div>
