@@ -318,10 +318,10 @@ return function(s)
     -- launcher
     local function launcher()
         local launc_icon = wibox.widget({
-            markup = helpers.ui.colorize_text("󰣚", beautiful.accent),
+            markup = helpers.ui.colorize_text("", beautiful.accent),
             align = "center",
             valign = "center",
-            font = beautiful.material_icons .. " 14",
+            font = beautiful.ios .. " 14",
             widget = wibox.widget.textbox
         })
 

@@ -251,7 +251,7 @@ return function(s)
     s.awesomewm = wibox.widget({
         {
             {
-                image = gears.color.recolor_image(icons.debian_logo,
+                image = gears.color.recolor_image(icons.arch_logo,
                                                   beautiful.accent),
                 resize = true,
                 halign = "center",

@@ -8,13 +8,13 @@ return {
         --- Default terminal emulator
         terminal = "st",
         --- Default music client
-        music_player = "gnome-terminal --class music -e ncmpcpp",
+        music_player = "alacritty --class music -e ncmpcpp",
         --- Default text editor
         text_editor = "st -e nvim",
         --- Default code editor
         code_editor = "codium",
         --- Default web browser
-        web_browser = "firefox",
+        web_browser = "google-chrome-stable",
         --- Default file manager
         file_manager = "nemo",
         --- Default network manager

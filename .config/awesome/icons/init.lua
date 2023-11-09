@@ -28,5 +28,6 @@ return {
 	battery_low = dir .. "battery-low.svg",
 	charging = dir .. "charging.svg",
 	web_browser = dir .. "firefox.svg",
-	debian_logo = dir .. "debian.svg"
+	debian_logo = dir .. "debian.svg",
+	arch_logo = dir .. "arch.png"
 }
