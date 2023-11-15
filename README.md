@@ -70,7 +70,7 @@ sudo pacman -S --needed xorg-server unzip mpd mpc ncmpcpp nemo ttf-roboto polkit
 - **aur-packages**
 
 ```sh
-yay -S --needed mpdris2 awesome-git greenclip networkmanager-dmenu-git i3lock-color tela-circle-icon-theme-manjaro material-gtk-theme-deepocean-git
+yay -S --needed mpdris2 awesome-git rofi-greenclip networkmanager-dmenu-git i3lock-color tela-circle-icon-theme-manjaro material-gtk-theme-deepocean-git
 ```
 
 - **For Fonts**
