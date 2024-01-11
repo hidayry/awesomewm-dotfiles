@@ -64,7 +64,7 @@ cp -r home/* ~/
 Dependencies :
 
 ```sh
-sudo pacman -S --needed xorg-server unzip mpd mpc ncmpcpp nemo ttf-roboto polkit-gnome maim alsa-utils brightnessctl jq playerctl xdotool xdo redshift lxappearance-gtk3 python-mutagen dmenu rofi picom xautolock gvfs gvfs-mtp gvfs-ntfs alacritty
+sudo pacman -S --needed xorg-server unzip mpd mpc ncmpcpp nemo ttf-roboto polkit-gnome maim alsa-utils brightnessctl jq playerctl xdotool xdo redshift lxappearance-gtk3 python-mutagen dmenu rofi picom xautolock gvfs gvfs-mtp gvfs-nfs alacritty
 ```
 
 - **aur-packages**
